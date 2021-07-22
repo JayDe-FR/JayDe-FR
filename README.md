@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 I'm learning JavaScript and some Frameworks to become a web developer one day!
 
-- 🎯 Prêt à collaborer sur tout type de projet open-source afin d'aider à faire avancer les gens et les idées grâce au web developpement.
+- 🎯 Ready to collaborate on any type of open-source project to help advance people and ideas through web development.
 
 - 📫 Socials : @jayson_delion (Twitter) || @JayDe-FR (GitHub) 
 
