@@ -1,19 +1,19 @@
-👋 Hi, I’m Jayson, French Athlete, Otaku for life.
+👋 Hi, I’m Jayson, French Athlete.
 
 
 👀 You could say that I am curious
 
-📚 I am always trying to understand and learn new things.
+📚 I am always trying to understand and learn new things,
 
 
-👨🏽‍💻 Currently learning JavaScript and some Frameworks
+👨🏽‍💻 Currently learning REACT library and some CSS Frameworks,
 
-👨🏽‍💻 Practicing HTML and CSS on a daily basis to become a web developer!
+👨🏽‍💻 Practicing HTML, CSS and JavaScript on a daily basis!
 
 
 🎯 I went down this technological path to become a web developer!
 
-🎯 Ready to collaborate on any type of open-source project to help advance people and ideas through web development.
+🎯 Ready to collaborate on any type of open-source project,
 
 
 📫 Socials : @jayson_delion (Twitter)
