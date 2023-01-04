@@ -1,20 +1,8 @@
-👋 Hi, I’m Jayson, French Athlete.
+👋 Hi, I’m Jay
 
+👨🏽‍💻 Practicing my FE skills daily
 
-👀 You could say that I am curious
-
-📚 I am always trying to understand and learn new things,
-
-
-👨🏽‍💻 Currently learning REACT library and some CSS Frameworks,
-
-👨🏽‍💻 Practicing HTML, CSS and JavaScript on a daily basis!
-
-
-🎯 I went down this technological path to become a web developer!
-
-🎯 Ready to collaborate on any type of open-source project,
-
+🎯 I'm here to become a web developer
 
 📫 Socials : @jayson_delion (Twitter)
 
