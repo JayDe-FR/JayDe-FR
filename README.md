@@ -1,8 +1,8 @@
 👋 Hi, I’m Jay
 
-👨🏽‍💻 Practicing my FE skills daily
+👨🏽‍💻 Improving my Dev skills on a daily basis
 
-🎯 I'm here to become a web developer
+🎯 Here to become a Dev
 
 📫 Socials : @jayson_delion (Twitter)
 
